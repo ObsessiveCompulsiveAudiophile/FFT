@@ -278,7 +278,7 @@ function complexMultiply(a, b) {
                             }
                         },
                         y: {
-                            type: 'linear', // Use linear scale for magnitude
+                            type: 'linear', 
                             position: 'left',
                         },
                     },
@@ -307,10 +307,10 @@ function complexMultiply(a, b) {
                             position: 'bottom',
                         },
                         y: {
-                            type: 'linear', // Use linear scale for phase
+                            type: 'linear', 
                             position: 'left',
-                            min: -180, // Set the minimum value for phase
-                            max: 180,  // Set the maximum value for phase
+                            min: -180, 
+                            max: 180,  
                             ticks: {
                                 callback: function (value, index, values) {
                                     return value.toString() + '°';
