@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>HTML FFT with no CDN libraries | FFT</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="HTML FFT with no CDN libraries" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="HTML script which can read wav files, apply fast fourier transform (Radix 2 recursive) and graph them all" />
+<meta property="og:description" content="HTML script which can read wav files, apply fast fourier transform (Radix 2 recursive) and graph them all" />
+<link rel="canonical" href="https://obsessivecompulsiveaudiophile.github.io/FFT/" />
+<meta property="og:url" content="https://obsessivecompulsiveaudiophile.github.io/FFT/" />
+<meta property="og:site_name" content="FFT" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="HTML FFT with no CDN libraries" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"HTML script which can read wav files, apply fast fourier transform (Radix 2 recursive) and graph them all","headline":"HTML FFT with no CDN libraries","name":"FFT","url":"https://obsessivecompulsiveaudiophile.github.io/FFT/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/FFT/assets/css/style.css?v=f9adafba68088158cb54c6b50e57dc961f55a177">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+google-site-verification: google66e268708df4d151.html
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/FFT/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://obsessivecompulsiveaudiophile.github.io/FFT/">FFT</a></h1>
+      
+
+      <h1 id="html-fft-with-no-cdn-libraries">HTML FFT with no CDN libraries</h1>
+<p>Platform independent HTML script that works in your browser, can read wav files of various types, apply fast fourier transform (Radix 2 recursive) and graph them all.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
